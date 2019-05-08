@@ -1,6 +1,6 @@
 var game = new Phaser.Game(600, 800, Phaser.AUTO, '', { preload: preload, create: create, update: update });
 	
-var score = 0;
+var score = 5;
 var scoreText;
 var platforms;
 var diamonds;
